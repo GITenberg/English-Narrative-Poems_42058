@@ -1,0 +1,34 @@
+_repo: English-Narrative-Poems_42058
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Fuess, Claude Moore
+    alias: Fuess, Claude M. (Claude Moore)
+    birthdate: 1885
+    deathdate: 1963
+    gutenberg_agent_id: '41499'
+    url: http://www.gutenberg.org/2009/agents/41499
+  - agent_name: Sanborn, Henry Nichols
+    alias: Sanborn, Henry N.
+    birthdate: 1879
+    deathdate: 1926
+    gutenberg_agent_id: '41500'
+    url: http://www.gutenberg.org/2009/agents/41500
+description: ''
+gutenberg_issued: '2013-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Narrative poetry, English'
+title: English Narrative Poems
+url: http://www.gutenberg.org/ebooks/42058
